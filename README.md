@@ -5,3 +5,7 @@ Optical Network Project using Optical-RL Gym and branching DQN to incorporate DQ
 
 Working with Python 3.7-3.9, the environment uses stable-baseline3 2.0 and cuda 11.6 to train a model using an Nvidia gpu.
 Since the observation space is multidimensional branching dqn agent is used
+
+
+## Citation 
+Modified crucial files from  [Optical RL-Gym](https://github.com/carlosnatalino/optical-rl-gym) for the environment to work(with gpu support) on stable-baselines3
